@@ -45,7 +45,8 @@
 
 ## 💬 Let's Connect!
 
-- (Add your LinkedIn, personal website, or any socials you'd like to share!)
+- Email Me
+  Email: keshav1499@gmail.com
 
 ---
 
