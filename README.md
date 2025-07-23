@@ -46,7 +46,7 @@
 ## 💬 Let's Connect!
 
 - Email Me
-  Email: keshav1499@gmail.com
+  : keshav1499@gmail.com
 
 ---
 
