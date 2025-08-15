@@ -43,6 +43,60 @@
 
 ---
 
+
+Goals for the weekend-
+1. Linux Process Monitor (Mini htop)
+
+Skills you’ll learn: process states, /proc filesystem, CPU/memory usage tracking.
+
+Write a Python/C program that reads from /proc to list running processes, PID, CPU%, memory usage.
+
+Add sorting by CPU/mem usage.
+
+Bonus: Add "kill process" feature.
+
+Why it helps: You’ll understand how Linux exposes process and memory info, and it’s a common OS interview topic.
+
+2. Simple Shell
+
+Skills you’ll learn: system calls (fork(), exec()), command parsing, process creation.
+
+Implement a shell that takes user input and runs commands using execvp().
+
+Handle built-ins like cd and exit.
+
+Add background job support using &.
+
+Why it helps: This is the classic OS project for understanding process creation, scheduling, and I/O redirection.
+
+3. Virtual Memory Simulator
+
+Skills you’ll learn: paging, page replacement algorithms, memory management.
+
+Write a C or Python program that simulates RAM and pages from disk.
+
+Implement FIFO and LRU page replacement.
+
+Show page fault count for a given access sequence.
+
+Why it helps: Paging & replacement algorithms are frequent IBM interview questions.
+
+4. File System Analyzer
+
+Skills you’ll learn: file I/O, inodes, permissions, system calls.
+
+Build a tool that takes a directory path and prints:
+
+File sizes
+
+Permissions (rwx)
+
+Last access & modified times
+
+Bonus: Compare sizes across subdirectories and find largest files.
+
+Why it helps: Teaches how Linux handles file metadata and permissions—often tested in OS/Unix rounds.
+
 ## 💬 Let's Connect!
 
 - Email Me
